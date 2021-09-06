@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi, eu sou Jennifer! 👋
 
 <!--
 **jenniferhr/jenniferhr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+✨ Eu atualmente curso Sistemas de Informação no Instituto Federal da Bahia
+🔭 Eu estou trabalhando como Social Media Analyst na Lionbridge
+🌱 Eu estou estudando desenvolvimento front-end, mais especificamente HTML, CSS e Javascript
+😄 Meus pronomes são: ela/dela
+

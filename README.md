@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou Jennifer! 👋</h1>
+<h1 align="center">Oi, eu sou a Jennifer! 👋</h1>
  
 <div align="center">
 ✨ Eu atualmente curso Sistemas de Informação no Instituto Federal da Bahia  <br>

@@ -2,8 +2,8 @@
  
 <div align="center">
 ✨ Eu atualmente curso Sistemas de Informação no Instituto Federal da Bahia  <br>
-🔭 Eu estou trabalhando como Social Media Evaluator na Lionbridge  <br>
-🌱 Eu estou estudando desenvolvimento web, mais especificamente HTML, CSS e Javascript  <br>
+🔭 Eu estou trabalhando como Analista de Tecnologia Digital I na Dasa <br>
+🌱 Eu estou estudando desenvolvimento web, principalmente Node.Js  <br>
 😄 Meus pronomes são: ela/dela  <br>  
  &nbsp   
  

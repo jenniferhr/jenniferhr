@@ -1,9 +1,9 @@
 <h1 align="center">Oi, eu sou a Jennifer! 👋</h1>
  
 <div align="center">
-✨ Eu atualmente curso Sistemas de Informação no Instituto Federal da Bahia  <br>
-🔭 Eu estou trabalhando como Analista de Tecnologia Digital I na Dasa <br>
-🌱 Eu estou estudando desenvolvimento web, principalmente Node.Js  <br>
+✨ Eu atualmente curso Análise e Desenvolvimento de Sistemas na Uninter  <br>
+🔭 Eu estou trabalhando como Analista de Tecnologia Digital I (Desenvolvedora Junior) na Dasa <br>
+🌱 Eu estou estudando desenvolvimento web back-end  <br>
 😄 Meus pronomes são: ela/dela  <br>  
  &nbsp   
  

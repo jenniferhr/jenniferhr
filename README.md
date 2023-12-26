@@ -2,7 +2,7 @@
  
 <div align="center">
 ✨ Eu atualmente curso Análise e Desenvolvimento de Sistemas na Uninter  <br>
-🔭 Eu sou dev back-end junior na Dasa <br>
+🔭 Eu sou dev back-end<br>
 🌱 Eu estou estudando desenvolvimento web back-end, principalmente Node.Js  <br>
 😄 Meus pronomes são: ela/dela  <br>  
  &nbsp   

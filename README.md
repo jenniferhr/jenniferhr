@@ -1,10 +1,12 @@
 <h1 align="center">Oi, eu sou a Jennifer! 👋</h1>
  
-<div align="left">
-✨ Eu atualmente curso Análise e Desenvolvimento de Sistemas na Uninter<br>
-🔭 Eu sou dev back-end<br>
-🌱 Eu estou atualmente estudando desenvolvimento back-end, especialmente Node.Js e Typescript<br>
-😄 Meus pronomes são: ela/dela  <br>  
+<div align="center">
+ <div align="left">
+  ✨ Eu atualmente curso Análise e Desenvolvimento de Sistemas na Uninter<br>
+ 🔭 Eu sou dev back-end<br>
+ 🌱 Eu estou atualmente estudando desenvolvimento back-end, especialmente Node.Js e Typescript<br>
+ 😄 Meus pronomes são: ela/dela  <br>  
+ </div>
  &nbsp   
  
  <div>
@@ -14,9 +16,11 @@
 </div>
  
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg">
 </div>
   
   &nbsp;   

@@ -1,9 +1,9 @@
 <h1 align="center">Oi, eu sou a Jennifer! 👋</h1>
  
-<div align="center">
-✨ Eu atualmente curso Análise e Desenvolvimento de Sistemas na Uninter  <br>
+<div align="left">
+✨ Eu atualmente curso Análise e Desenvolvimento de Sistemas na Uninter<br>
 🔭 Eu sou dev back-end<br>
-🌱 Eu estou estudando desenvolvimento web back-end, principalmente Node.Js  <br>
+🌱 Eu estou atualmente estudando desenvolvimento back-end, especialmente Node.Js e Typescript<br>
 😄 Meus pronomes são: ela/dela  <br>  
  &nbsp   
  

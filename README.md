@@ -3,7 +3,7 @@
 <div align="center">
  <div align="left">
   ✨ Eu atualmente curso Análise e Desenvolvimento de Sistemas na Uninter<br>
- 🔭 Eu sou desenvolvedora de software<br>
+ 🔭 Eu sou desenvolvedora de software e atualmente trabalho como Chatbot Developer<br>
  🌱 Eu estou atualmente estudando desenvolvimento back-end, especialmente Node.Js e Typescript<br>
  😄 Meus pronomes são: ela/dela  <br>  
  </div>
